@@ -1,2 +1,2 @@
 # operator-demo
-k8s operator模式联系
+k8s operator demo
